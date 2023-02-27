@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+
+}
+
+@using WebApplication1.Entities
+
+@{
+    var data = ViewBag.Message;
+    var data2 = ViewBag.DataLists;
+    var guid = ViewBag.operationID;
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<h3>Get From DB</h3>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>UserName</th>
+            <th>Password</th>
+            <th>Email</th>
+            <th>Guid</th>
+        </tr>
+    </thead>
+    @foreach (var item in data)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Username</td>
+            <td>@item.Password</td>
+            <td>@item.Email</td>
+        </tr>
+    }
+</table>
+<div>
+    <h3>Get From Service</h3>
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>UserName</th>
+                <th>Password</th>
+                <th>Email</th>
+                <th>Guid</th>
+            </tr>
+        </thead>
+        @foreach (var item2 in data2)
+        {
+            <tr>
+                <td>@item2.UserName</td>
+                <td>@item2.Password</td>
+                <td>@item2.Email</td>
+                <td>@guid</td>
+            </tr>
+        }
+    </table>
+</div>
+
+
