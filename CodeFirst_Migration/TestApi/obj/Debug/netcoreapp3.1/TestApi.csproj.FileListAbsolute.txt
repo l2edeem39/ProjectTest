@@ -1,0 +1,133 @@
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.deps.json
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.json
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.dev.json
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.pdb
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csprojAssemblyReference.cache
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CoreCompileInputs.cache
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TestApi.styles.css
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.dll
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.pdb
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.genruntimeconfig.cache
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\TestProgram\Api\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CopyComplete
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TestProgram\Api\TestApi\TestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\TestApi.deps.json
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.json
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.dev.json
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\TestApi.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\TestApi.pdb
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.csprojAssemblyReference.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CoreCompileInputs.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TestApi.styles.css
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CopyComplete
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.dll
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.pdb
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\obj\Debug\netcoreapp3.1\TestApi.genruntimeconfig.cache
+D:\Hubs\New folder\ProjectTest\CodeFirst_Migration\TestApi\bin\Debug\netcoreapp3.1\Dapper.dll
