@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -40,6 +41,11 @@ namespace WebApplication1.Controllers
             var b = _dataService.GetData();
             ViewBag.DataLists = b;
             ViewBag.operationID = operationId;
+
+            //Exex Stored
+            var context = new AdventureWorkContext();
+            var aff = context.User.FromSqlRaw("exec HelloWorld @option = 1").ToList();
+
             return View();
         }
 
@@ -61,5 +67,12 @@ namespace WebApplication1.Controllers
             }
             
         }
-	}
+        public IActionResult IGetData()
+        {
+            var context = new AdventureWorkContext();
+            var a = context.User.ToList();
+            var aff = context.User.FromSqlRaw("Select * from [User]").ToList();
+            return Ok();
+        }
+    }
 }
