@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1{
+  color: red;
+}
+.myclass{
+  color: rgb(81, 69, 69);
+}
+.red{
+  color: red;
+}
+button{
+  background-color: red;
+  padding-right:3px;
+}
