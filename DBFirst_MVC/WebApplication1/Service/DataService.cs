@@ -18,7 +18,6 @@ namespace WebApplication1.Service
         {
             var result = new List<DataModel>();
             var a = new Student();
-
             var setData = new DataModel();
             var ab = _cotext.User.ToList();
             foreach (var item in ab)

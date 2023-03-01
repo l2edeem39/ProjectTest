@@ -9,6 +9,8 @@
     var data = ViewBag.Message;
     var data2 = ViewBag.DataLists;
     var guid = ViewBag.operationID;
+    var test = ViewBag.test;
+    var template = ViewBag.template;
 }
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -57,6 +59,22 @@
             </tr>
         }
     </table>
+    <input type="text" value="@test" />
+    <button type="button" onclick="test('@ViewBag.test')">sdgfsdg</button>
+
+    <select id="SubjectList" name="SubjectList">
+        @foreach (var item2 in template)
+        {
+        <option value=@item2.value>@item2.key</option>
+        }
+    </select>
 </div>
+<script>
+    function test(a) {
+        console.log(a);
+        alert(a);
+        //alert(b);
+    }
+</script>
 
 
