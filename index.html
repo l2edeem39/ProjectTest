@@ -1,0 +1,63 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+             $("#download").click(function () {
+                var jsonObj = {"template":{"shortid":"2DTSrqbkCE"},"data":{"policyNumber":"65108-3544116"}}
+                //console.log(jsonObj);
+                 $.ajax({
+                     url: 'http://virjsreportdev:5488/api/report',
+                     type: 'POST',
+                     data: jsonObj,
+                     xhrFields : {
+                        responseType : 'blob'
+                     },
+                     success: function (data, textStatus, xhr) {
+                        blob = new Blob([data], { type: 'application/pdf' });
+                        var link = document.createElement('a');
+                        link.href = window.URL.createObjectURL(blob);
+
+                        //Get FileName from Header
+                        var headers = xhr.getAllResponseHeaders();
+                        const arr = headers.trim().split(/[\r\n]+/);
+                        const headerMap = {};
+                        arr.forEach((line) => {
+                        const parts = line.split(': ');
+                        const header = parts.shift();
+                        const value = parts.join(': ');
+                        headerMap[header] = value;
+                        });
+                        var filename = headerMap['content-disposition'].replace('inline;filename=','');
+                        //Get FileName from Header
+
+                        link.download = filename;
+                        document.body.appendChild(link);
+                        link.click();
+
+                        console.log(filename);
+                     },
+                     error: function (xhr, textStatus, errorThrown) {
+                         console.log('Error in Operation');
+                     }
+                 });
+             });
+         });
+         
+         function Base64ToBytes(base64) {
+            var s = window.atob(base64);
+            var bytes = new Uint8Array(s.length);
+            for (var i = 0; i < s.length; i++) {
+                bytes[i] = s.charCodeAt(i);
+            }
+            return bytes;
+        };
+    </script>
+    <button id = "download" >Download</button>
+</body>
+
+</html>
